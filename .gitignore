@@ -42,6 +42,7 @@
 *.idb
 *.pdb
 *.md
+*.legacy
 
 # Kernel Module Compile Results
 *.mod*
