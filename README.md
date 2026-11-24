@@ -1,2 +1,4 @@
-# ZAR_RuLoc
-Patching up the Russian localization of Zombies Aren't Real
+# Zombies Aren't Real Localization Patching
+Данный репозиторий предназначен для вычитки и редактирования русской локализации игры Zombies Aren't Real.
+
+Чтобы внести свой вклад в проект, создавайте форки для редактирования файла и запросы на слияние.
